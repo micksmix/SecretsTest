@@ -1,0 +1,6 @@
+canary
+[default]
+aws_access_key_id = AKIAX24QKKOLDJMZ5Y2T
+aws_secret_access_key = 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
+output = json
+region = us-east-2
